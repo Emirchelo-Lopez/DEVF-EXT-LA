@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-top: 100px;
+}
+
+#render {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 500px;
+  height: 100%;
+  background-color: aliceblue;
+  gap: 1rem;
+}
+
+.card {
+  width: 150px;
+  height: auto;
+  background-color: red;
+  text-align: center;
+  padding: 1rem;
+}
