@@ -1,2 +1,2 @@
 # Ignore the out-of-class folder
-*
+/out-of-class*
