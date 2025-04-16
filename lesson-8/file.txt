@@ -1,0 +1,3 @@
+Hello from JS
+
+This is a new line
